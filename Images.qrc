@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/camera.png</file>
+        <file>Images/image.png</file>
+        <file>Images/videocamera.png</file>
+        <file>Images/camera_off.png</file>
+        <file>Images/camera_on.png</file>
+        <file>Images/image_off.png</file>
+        <file>Images/image_on.png</file>
+        <file>Images/video_off.png</file>
+        <file>Images/video_on.png</file>
+        <file>Images/pausebutton-50.png</file>
+        <file>Images/start_button.png</file>
+        <file>Images/start_button_default.png</file>
+        <file>Images/Pause.png</file>
+        <file>Images/Pause_disabled.png</file>
+        <file>Images/Resume.png</file>
+        <file>Images/Default_background.png</file>
+        <file>Images/icon.png</file>
+    </qresource>
+</RCC>
