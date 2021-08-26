@@ -1,0 +1,3 @@
+Notice: To run this application, create the folder named Model_files in the project folder, then download the frozen_east_text_detection.pb file and put it in the newly-created folder. The .pb file can be found at https://www.dropbox.com/s/r2ingd0l3zt8hxs/frozen_east_text_detection.tar.gz?dl=1.
+
+Usage: Open input images for detection and recognition by clicking the open image, camera, or video buttons. Enable/disable detection and recognition by checking/unchecking the corresponding checkbox on each window. Hit the "Save" button to write output text to a text file. There are two writing modes. Overwrite mode clears the file content and writes a new one. Append mode keeps the existing text and append the new text.
